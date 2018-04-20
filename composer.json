@@ -7,7 +7,7 @@
     "php",
     "sdk"
   ],
-  "homepage": "https://github.com/qingpai/aliyun-php-sdk-core",
+  "homepage": "https://github.com/kasimchen/aliyun-php-sdk-core.git",
   "license": "MIT",
   "authors": [
     {
